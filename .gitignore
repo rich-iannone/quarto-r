@@ -3,3 +3,8 @@
 
 .quarto/
 *_cache/
+
+# Top-level .Rmd/.md files and generated .html
+*.Rmd
+*.md
+*.html
